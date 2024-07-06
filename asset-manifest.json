@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/defendtech.github.io/static/css/main.552a3ef3.css",
+    "main.js": "/defendtech.github.io/static/js/main.690b3e2d.js",
+    "static/js/453.936f6dde.chunk.js": "/defendtech.github.io/static/js/453.936f6dde.chunk.js",
+    "index.html": "/defendtech.github.io/index.html",
+    "main.552a3ef3.css.map": "/defendtech.github.io/static/css/main.552a3ef3.css.map",
+    "main.690b3e2d.js.map": "/defendtech.github.io/static/js/main.690b3e2d.js.map",
+    "453.936f6dde.chunk.js.map": "/defendtech.github.io/static/js/453.936f6dde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.552a3ef3.css",
+    "static/js/main.690b3e2d.js"
+  ]
+}
